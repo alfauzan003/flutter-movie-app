@@ -19,4 +19,4 @@ flutter run
 
 ## Screenshot
 Berikut ini adalah screenshot dari tampilan aplikasi yang kami buat
-<img src="assets/Screenshot_1663393466.png" height="400em"/>&nbsp;<img src="assets/Screenshot_1663393492.png" height="400em" />
+<img src="assets/screenshot/photo_2022-12-25_18-37-54.jpg" height="400em"/>&nbsp;<img src="assets/screenshot/photo_2022-12-25_18-37-55.jpg" height="400em"/>;<img src="assets/screenshot/photo_2022-12-25_18-37-57.jpg" height="400em"/>
