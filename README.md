@@ -1,16 +1,22 @@
-# project_prak_mobile
+# Project Praktikum Pemrograman Aplikasi Mobile
+Aplikasi untuk menampilkan data tentang Film yang sedang tranding. Dibuat menggunakan Flutter dengan memakai layanan TMDB API untuk mendapatkan data
 
-A new Flutter project.
+Dibuat dalam rangka menyelesaikan tugas proyek akhir mata kuliah Praktikum Pemrograman Aplikasi Mobile
+
+oleh:
+```
+Habib Al Fauzan (124200070)
+Eka Jatirasa (124200063)
+Plug  : C
+```
 
 ## Getting Started
+Untuk membuka aplikasi ini, jalankan perintah berikut
+```
+flutter pub get
+flutter run
+```
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot
+Berikut ini adalah screenshot dari tampilan aplikasi yang kami buat
+<img src="assets/Screenshot_1663393466.png" height="400em"/>&nbsp;<img src="assets/Screenshot_1663393492.png" height="400em" />
